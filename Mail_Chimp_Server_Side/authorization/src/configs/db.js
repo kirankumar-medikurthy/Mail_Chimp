@@ -1,7 +1,7 @@
 const mongoose = require('mongoose');
 
 const connect = () => {
-    return mongoose.connect("mongodb+srv://kirankumar:masaiAssignment@masaiassignments.ipvmg.mongodb.net/Authorization_and_OAuth?retryWrites=true&w=majority");
+    return mongoose.connect("mongodb+srv://kirankumar:masaiAssignment@masaiassignments.ipvmg.mongodb.net/Mail_Chimp?retryWrites=true&w=majority");
 }
 
 
