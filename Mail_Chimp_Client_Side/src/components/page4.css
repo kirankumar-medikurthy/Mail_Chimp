@@ -1,0 +1,93 @@
+#navbar {
+  height: 401px;
+  width: 1440px;
+  background-color: #ffe01b;
+  margin: auto;
+}
+
+.text1 {
+  height: 56px;
+  width: 777px;
+  padding-left: 332px;
+  padding-top: 200px;
+  font-family: Lora;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 56px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+.boxes {
+  display: flex;
+  flex-direction: row;
+  padding-top: 100px;
+  justify-content: center;
+  /* align-items: center;
+  padding: 14px 29px; */
+}
+.Box1 {
+  height: 31px;
+  width: 340px;
+  padding-top: 15px;
+  padding: 14px, 29px, 14px, 29px;
+  background-color: #ffff;
+}
+
+.Box2 {
+  height: 31px;
+  width: 340px;
+  border-radius: 0px;
+  padding-top: 15px;
+  padding: 14px, 29px, 14px, 29px;
+  background: #ffec76;
+}
+
+.Box3 {
+  height: 31px;
+  width: 340px;
+  padding-top: 15px;
+  border-radius: 0px;
+  padding: 14px, 29px, 14px, 29px;
+  background: #ffec76;
+}
+
+.Box1,
+.Box2,
+.Box3 {
+  text-align: center;
+  font-family: Graphik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 14px;
+  line-height: 15px;
+  text-align: center;
+  color: #000000;
+}
+
+.premiumboxes {
+  display: flex;
+  flex-direction: row;
+}
+
+.prembox1
+{
+    margin-left:40px;
+}
+.prembox4 {
+    margin-right: 40px;
+}
+
+.prembox1,.prembox2,.prembox3,.prembox4 {
+  height: 662.6652221679688px;
+  width: 338.5025634765625px;
+  margin-top: 100px;
+  border: 1px solid #000000;
+  padding: 20px;
+  background: #ffffff;
+}
+
+.insideTextpremium {
+    display: flex;
+    flex-direction: row;
+}
