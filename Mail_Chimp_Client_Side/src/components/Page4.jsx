@@ -1,4 +1,6 @@
 import "./page4.css"
+
+const plusStyle= {float:"right",paddingTop:"5px"}
 export const Page4 = () =>{
     return (<div>
         <h1>Welcome to the Page 4</h1>
@@ -224,11 +226,42 @@ export const Page4 = () =>{
                 <div className="businessOnlineImagelayout3">
                     <img className="businessOnlineImage" src="/project_images/page4_images/client.png" alt="client.png"></img>
                     <div>
-                        <div className="freetools">Prefer to pay as you go?</div>
-                        <div className="businessOnlineMarketing" >Instead of paying a monthly recurring charge, you can buy email credits as needed through our PayAs You Go plan.It’s best for infrequent senders.</div>
-                        <button className="seewebsite">Learn More</button>
+                        <div className="freetools">Need to help clients use Mailchimp?</div>
+                        <div className="businessOnlineMarketing" >Unlock the tools you need to get work done for clients when you sign up through Mailchimp & Co. our community for freelancers and agencies. It’s free to join with any Mailchimp plan.</div>
+                        <button className="getstarted">Get Started</button>
                     </div>
                 </div>
+                <div className="twofactorauthentication">
+                    <div>
+                        <div className="twofactortitle">Two-Factor authentication discount</div>
+                        <div className="twofactorcontent">At Mailchimp, we’re serious about security. We offer a 10% discount for 3 months when you add two-factor authentication to your Mailchimp account with an app like Google Authentication or SMS two-factor authentication.</div>
+                        <button className="getstartedtwofactor">Get Started</button>
+                    </div>
+                    <div className="horizantalLine"></div>
+                    <div>
+                        <div className="ratefornonprofits">Rates for nonprofits and charities</div>
+                        <div className="ratefornonprofitscontent">Mailchimp offers a 15% discount to nonprofits and charitie. To request the discount, sign up for a free account, and contact our Billing team with your username and a link to your organization’s website.</div>
+                        <button className="getstartedtwofactor">Get Started</button>
+                    </div>
+                </div>
+            </div>
+            <div className="sendinglimit">What happens if I hit my contact or sending limit?</div>
+            <div>
+                <div className="FAQs">FAQs</div>
+                <div className="tablecontent">
+                    <div className="paymentmethodoffer">What payment methods do you offer? <span><img style={plusStyle} src="/project_images/page4_images/pluscircle.png" alt="pluscircle.png"/></span></div>
+                    <div className="paymentmethodoffer1">How do I switch to a different plan?<span><img style={plusStyle} src="/project_images/page4_images/pluscircle.png" alt="pluscircle.png"/></span></div>
+                    <div className="paymentmethodoffer2">Can I buy credit instead?<span><img style={plusStyle} src="/project_images/page4_images/pluscircle.png" alt="pluscircle.png"/></span></div>
+                    <div className="paymentmethodoffer3">Do you have pricing for high-volume email senders?<span><img style={plusStyle} src="/project_images/page4_images/pluscircle.png" alt="pluscircle.png"/></span></div>
+                    <div className="paymentmethodoffer4">What happens if I hit my contact or sending limit?<span><img style={plusStyle} src="/project_images/page4_images/pluscircle.png" alt="pluscircle.png"/></span></div>
+                </div>
+            </div>
+            <div className="goodcompany">You’ll be in good company</div>
+            <div className="footerimages">
+                <img className="eastfork" src="/project_images/page4_images/eastfork.png" alt="eastfork.png"/>
+                <img className="cronicalimage" src="/project_images/page4_images/cronicalimage.png" alt="cronicalimage.png"/>
+                <img className="fader" src="/project_images/page4_images/fader.png" alt="fader.png"/>
+                <img className="sweat" src="/project_images/page4_images/sweat.png" alt="sweat.png"/>
             </div>
         </div>
     </div>)
