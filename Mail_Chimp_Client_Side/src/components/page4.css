@@ -68,26 +68,640 @@
 .premiumboxes {
   display: flex;
   flex-direction: row;
+  margin-bottom: 20px;
 }
 
-.prembox1
-{
-    margin-left:40px;
+.prembox1 {
+  margin-left: 40px;
 }
 .prembox4 {
-    margin-right: 40px;
+  margin-right: 40px;
 }
 
-.prembox1,.prembox2,.prembox3,.prembox4 {
+.prembox1,
+.prembox2,
+.prembox3,
+.prembox4 {
   height: 662.6652221679688px;
   width: 338.5025634765625px;
   margin-top: 100px;
   border: 1px solid #000000;
   padding: 20px;
+  text-align: left;
   background: #ffffff;
+  /* Body Medium */
+
+  font-family: Graphik;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 15px;
 }
 
 .insideTextpremium {
-    display: flex;
-    flex-direction: row;
+  display: flex;
+  flex-direction: row;
 }
+
+.btn {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 14px 40px;
+  width: 260px;
+  height: 43px;
+  /* left: 20px;
+top: 323.33px; */
+  background: #007c89;
+}
+
+.titleprem,
+.titlefree,
+.titleessen,
+.titlestan {
+  height: 33px;
+  width: 112px;
+  /* left: 20px;
+top: 69.33251953125px; */
+  border-radius: nullpx;
+  font-family: Lora;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+
+.datadriven,
+.Advanced,
+.GreatEmail,
+.AllMultiple {
+  height: 30px;
+  width: 238px;
+  /* left: 20px;
+top: 122.33251953125px; */
+  font-family: Graphik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+
+.startsat {
+  height: 15px;
+  width: 53px;
+  left: 20px;
+  /* top: 172.33251953125px; */
+  font-family: Graphik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+
+.rs {
+  width: 188px;
+  height: 61px;
+  left: 20px;
+  /* top: 182.33px; */
+  font-family: Lora;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+
+.monthlycontact {
+  height: 15px;
+  width: 221px;
+  /* left: 20px;
+top: 253.33251953125px; */
+  font-family: Graphik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+
+.contact {
+  height: 15px;
+  width: 226px;
+  left: 20px;
+  top: 288.33251953125px;
+  font-family: Graphik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #007c89;
+}
+
+.everything {
+  height: 22px;
+  width: 197px;
+  left: 20px;
+  top: 386.33251953125px;
+  font-family: Graphik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0.02em;
+  text-align: left;
+}
+
+.tickbox {
+  height: 130px;
+  width: 213px;
+  left: 20px;
+  top: 428.33251953125px;
+  border-radius: 0px;
+}
+
+.aboutpremium1,
+.aboutpremium2,
+.aboutpremium3,
+.aboutpremium4 {
+  height: 15px;
+  width: 105px;
+  font-family: Graphik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #007c89;
+}
+
+.aboutpremium2,
+.aboutpremium3,
+.aboutpremium4 {
+  padding-top: 85px;
+}
+
+.compareplans {
+  height: 43px;
+  width: 185px;
+  margin-left: 628px;
+  padding: 40px, 29px, 14px, 29px;
+  border: 1px solid #007c89;
+  font-family: Graphik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: center;
+  margin: auto;
+}
+
+.calculateprice {
+  height: 44px;
+  width: 319px;
+  margin-left: 36px;
+  top: 1288px;
+  border-radius: undefinedpx;
+  font-family: Lora;
+  font-size: 34px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 44px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.calculatepricebox {
+  height: 516px;
+  width: 1355px;
+  margin-left: 40px;
+  top: 1349px;
+  border-radius: 0px;
+  border: 1px solid #716b67;
+  display: flex;
+  flex-direction: row;
+}
+.selectplantext {
+  height: 32px;
+  width: 132px;
+  margin-left: 100px;
+  margin-top: 50px;
+  border-radius: nullpx;
+  font-family: Graphik;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #000000;
+}
+
+.selecttabflex {
+  display: flex;
+  flex-direction: row;
+}
+.selecttabs1,
+.selecttabs2,
+.selecttabs3 {
+  height: 30px;
+  width: 290px;
+  margin-top: 10px;
+  padding-top: 20px;
+  border-radius: 0px;
+  padding: 10px, 80px, 10px, 80px;
+  background: #e9e8e7;
+  border: 1px solid #000000;
+}
+.selecttabs1 {
+  margin-left: 105px;
+}
+
+.selecttabs2 {
+  background: #ffffff;
+}
+
+.Premium {
+  height: 26px;
+  width: 85px;
+  margin-left: 102.5px;
+  padding-top: 14px;
+  border-radius: nullpx;
+  font-family: Lora;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.contacts {
+  height: 32px;
+  width: 100px;
+  margin-left: 100px;
+  margin-top: 10px;
+  border-radius: nullpx;
+  font-family: Graphik;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 32px;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #000000;
+}
+
+.contactContext {
+  height: 46px;
+  width: 874px;
+  margin-left: 110px;
+  margin-top: 10px;
+  font-family: Graphik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.contactline {
+  height: -10px;
+  width: 850.5px;
+  margin-left: 100px;
+  margin-top: 0px;
+  border-radius: 0px;
+  border: 6px solid #716b6754;
+  display: flex;
+  flex-direction: row;
+}
+
+.l1,
+.l2,
+.l3,
+.l4,
+.l5.l6,
+.l7,
+.l8,
+.l9,
+.l10,
+.l11 {
+  height: 6px;
+  width: 97px;
+  margin-left: 0px;
+  border-radius: 0px;
+  background: #007c89;
+}
+
+.sliderimg {
+  height: 10px;
+  width: 20px;
+  margin-top: -2.5px;
+}
+
+.l2,
+.l3,
+.l4,
+.l5,
+.l6,
+.l7,
+.l8,
+.l9,
+.l10,
+.l11 {
+  background: #716b67;
+  margin: 0px 2px;
+}
+
+.contactcountlayout {
+  height: 84.39837646484375px;
+  width: 100px;
+  margin-left: 150px;
+  margin-top: 10px;
+  border-radius: 10px;
+  border: 1px solid #000000;
+  padding-top: 20px;
+}
+
+.polygon {
+  width: 18px;
+  height: 15.89px;
+  margin-left: 195px;
+  margin-top: -2px;
+  box-sizing: border-box;
+}
+
+.mail_chiprecommendationlayout {
+  height: 100%;
+  width: 338px;
+  margin-left: 5%;
+  /* margin-top: 1348.37744140625px; */
+  border-radius: 0px;
+  /* padding: 20px; */
+  background: #ffffff;
+  border: 1px solid #716b67;
+}
+
+.mail_chimp_box {
+  height: 28px;
+  width: 100%;
+  border-radius: 0px;
+  background: #ffe01b;
+}
+
+.mail_chimp_text {
+  height: 15px;
+  width: 163px;
+  border-radius: nullpx;
+  font-family: Graphik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.mail_recommendation_standerd_text {
+  height: 33px;
+  width: 110px;
+  margin-left: 20px;
+  font-family: Lora;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.mail_chimp_start_at {
+  height: 15px;
+  width: 53px;
+  margin-top: 20px;
+  margin-left: 20px;
+  font-family: Graphik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #000000;
+}
+
+.rs1150 {
+  height: 61px;
+  width: 140px;
+  margin-left: 20px;
+  top: 116px;
+  font-family: Lora;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 61px;
+  letter-spacing: 0em;
+  text-align: left;
+  font-family: Lora;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.monthlyContent {
+  height: 15px;
+  width: 221px;
+  margin-left: 20px;
+  margin-top: 10px;
+  font-family: Graphik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.buynowbtn_recommendation {
+  height: 43px;
+  width: 260px;
+  margin-left: 7px;
+  margin-top: 20px;
+  padding: 14px, 40px, 14px, 40px;
+  background: #007c89;
+  color: white;
+}
+
+.monthlyemailcontent {
+  height: 176px;
+  width: 258px;
+  margin-left: 20px;
+  margin-top: 20px;
+  font-family: Graphik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0.02em;
+  text-align: left;
+  color: #000000;
+}
+
+.actualprice {
+  height: 67px;
+  width: 969px;
+  margin-left: 40px;
+  margin-top: 20px;
+  top: 1893px;
+  font-family: Graphik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.FeaturedproductsLayout {
+  height: 298px;
+  width: 1440px;
+  margin-top: 20px;
+  border-radius: 0px;
+  background: #f6f6f4;
+  border: 1px solid black;
+}
+
+.featureproductitle {
+  height: 31px;
+  width: 208px;
+  margin-left: 616px;
+  margin-top: 53px;
+  font-family: Lora;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.unlimitedoneone {
+  height: 108px;
+  width: 969px;
+  margin-left: 236px;
+  margin-top: 11px;
+  border-radius: nullpx;
+  font-family: Graphik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+  font-family: Graphik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+}
+
+.advancedscheduled {
+  color: #007c89;
+}
+
+.buynowactualpricebtn {
+  height: 43px;
+  width: 117px;
+  /* margin-left: 150px; */
+  margin-top: -200px;
+  padding: 14px, 29px, 14px, 29px;
+  background: #007c89;
+}
+
+.businessOnlineImage,.prefer_to_pay {
+  height: 303px;
+  width: 426px;
+  margin-top: 50px;
+  margin-left:200px;
+}
+
+.businessOnlineImagelayout1, .businessOnlineImagelayout2,.businessOnlineImagelayout3 {
+  display:flex;
+  flex-direction: row;
+  margin-top:50px;
+}
+.businessOnlineImagelayout3 {
+  background-color:#F6F6F4;
+  ;
+}
+
+.businessOnlineMarketing,.insteadofpaying {
+  height: 108px;
+width: 440px;
+margin-left: 150px;
+margin-top: 20px;
+font-family: Graphik;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+}
+
+.freetools,.prefer_to_pay_you {
+  height: 66px;
+width: 342px;
+margin-left: 150px;
+margin-top:80px;
+font-family: Lora;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.seewebsite,.learnmore {
+  height: 43px;
+width: 271px;
+margin-top: 20px;
+border-radius: 0px;
+padding: 14px, 29px, 14px, 29px;
+color: #004E56;
+}
+
+.learnmore {
+  height: 43px;
+width: 134px;
+margin-left: 0px;
+margin-top: 20px;
+border-radius: 0px;
+padding: 14px, 29px, 14px, 29px;
+border: 1px solid #007C89
+} 
