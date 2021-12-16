@@ -21,8 +21,8 @@ router.get("", async(req, res) => {
     sendMail({
         from: "kiran1999m1234@gmail.com",
         to: "ankush@masai.school",
-        subject: "Welcome to the MVC Mail chimp",
-        text: "Welcome to the Mvc pattern mailtrap and nodemailer through mailchimp",
+        subject: "Welcome to the mail checking Mail chimp",
+        text: "Welcome to the clearing you any data pattern mailtrap and nodemailer through mailchimp",
         html: "<p> Mvc pattern Welcome to the mailtrap and nodemailer through mailchimp</p>",
     });
 
