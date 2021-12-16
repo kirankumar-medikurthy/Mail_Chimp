@@ -1,5 +1,7 @@
 const express = require('express');
 
+const cors = require('cors');
+
 const connect = require("./configs/db");
 
 const passport = require("./configs/passport.configs");
@@ -11,6 +13,8 @@ const { register, login, newToken } = require("./controllers/auth.controller");
 const app = express();
 
 app.use(express.json());
+
+app.use(cors());
 
 app.use(passport.initialize());
 
