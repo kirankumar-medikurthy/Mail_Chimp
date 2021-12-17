@@ -1,0 +1,469 @@
+#singup4layout {
+  height: 830px;
+  width: 1490px;
+  border-radius: 0px;
+  background: #ffffff;
+  border: 1px solid black;
+  display: flex;
+  flex-direction: row;
+  margin: auto;
+}
+
+.horizantalline {
+  height: 830px;
+  width: 9px;
+  background: #ffe01b;
+}
+
+.flowerlayout {
+  height: 830px;
+  width: 300px;
+  float:right;
+  background: #ffe01b;
+  margin-left:30px;
+}
+
+.flowerimagelayout {
+  height: 743px;
+  width: 300px;
+  margin-left: -60px;
+  margin-top: 50px;
+}
+
+.accountsetup {
+  height: 31px;
+  width: 170px;
+  margin-left: 50px;
+  margin-top: 14px;
+  font-family: Lora;
+  font-size: 24px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
+}
+
+.planprofileicons {
+  display: flex;
+  flex-direction: row;
+}
+
+.plan {
+  display: flex;
+  flex-direction: row;
+  height: 22px;
+  width: 33px;
+  margin-left: 50px;
+  margin-top: 10px;
+}
+.greaterthan {
+  margin: 0px 10px;
+  width: 33px;
+  height: 22px;
+  margin-left: 10px;
+}
+
+.finish {
+  height: 22px;
+  width: 62px;
+  margin-left: 30px;
+  margin-top: 8px;
+  border-radius: nullpx;
+  font-family: Graphik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  display: flex;
+  color: #716b67;
+}
+.profile {
+  height: 22px;
+  width: 48px;
+  margin-left: 30px;
+  margin-top: 8px;
+  border-radius: nullpx;
+  font-family: Graphik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  display: flex;
+  color: #716b67;
+}
+.Address {
+  height: 22px;
+  width: 62px;
+  margin-left: 20px;
+  margin-top: 8px;
+  border-radius: nullpx;
+  font-family: Graphik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  display: flex;
+  color: #716b67;
+}
+.contact {
+  height: 22px;
+  width: 62px;
+  margin-left: 20px;
+  margin-top: 8px;
+  border-radius: nullpx;
+  font-family: Graphik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  display: flex;
+  color: #716b67;
+}
+.customize {
+  height: 22px;
+  width: 62px;
+  margin-left: 20px;
+  margin-top: 8px;
+  border-radius: nullpx;
+  font-family: Graphik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  display: flex;
+  color: #716b67;
+}
+
+.selectionbar {
+  display: flex;
+  flex-direction: row;
+}
+.selection,
+.payment,
+.conformation {
+  height: 22px;
+  width: 73px;
+  margin-left: 50px;
+  margin-top: 30px;
+  border-radius: nullpx;
+  font-family: Graphik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #007c89;
+  display: flex;
+}
+
+.payment,
+.conformation {
+  margin-left: 20px;
+  color: #716b67;
+}
+
+.twoboxlayout {
+  display: flex;
+  flex-direction: row;
+  border: 1px solid black;
+}
+
+.flexboxes {
+  height: 372px;
+  width: 760px;
+  margin-left: 50px;
+  margin-top: 30px;
+  border: 0.25px solid #000000;
+}
+
+.box1,.box2,.box3,.box4 {
+  height: 370px;
+  width: 204px;
+  background: #ffffff;
+  border:1px solid #000000;
+}
+
+.boxes {
+    display: flex;
+    flex-direction: row;
+    margin-left:50px;
+    margin-top:20px;
+}
+.insidebox1
+{
+    display: flex;
+    flex-direction: row;
+}
+
+.premium {
+    height: 33px;
+width: 111px;
+margin-left: 12px;
+margin-top: 40px;
+font-family: Lora;
+font-size: 26px;
+font-style: normal;
+font-weight: 400;
+line-height: 33px;
+letter-spacing: 0em;
+text-align: left;
+    
+
+}
+
+.radiobtn {
+    height: 16px;
+width: 16px;
+margin-left: 4px;
+margin-top: 50px;
+border-radius: 0px;
+background: #FFFFFF;
+}
+
+.advancedfeatures {
+    height: 66px;
+width: 189px;
+margin-left: 12px;
+margin-top: 5px;
+font-family: Graphik;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #000000;
+
+}
+
+.youwillpay {
+    height: 16px;
+width: 70px;
+margin-left: 63px;
+margin-top: 30px;
+font-family: Graphik;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0.02em;
+text-align: center;
+}
+
+.signuprupees {
+    height: 46px;
+width: 200px;
+margin-left: 12px;
+margin-top: 20px;
+font-family: Lora;
+font-size: 22px;
+font-style: normal;
+font-weight: 400;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+font-family: Lora;
+font-size: 44px;
+font-style: normal;
+font-weight: 400;
+line-height: 56px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.amonth {
+    height: 17px;
+width: 62px;
+margin-left: 67px;
+margin-top: 10px;
+font-family: Graphik;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0.02em;
+text-align: center;
+
+}
+
+.with10000contacts {
+    height: 15px;
+width: 144px;
+margin-left: 26px;
+margin-top: 30px;
+font-family: Graphik;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.purchasesummarylayout {
+    height: 107px;
+width: 278px;
+margin-left: 20px;
+/* margin-top: 192px; */
+border-radius: 0px;
+background: #EFEEEA;
+border: 0.1px solid #000000
+}
+.purchasesummarytext {
+    height: 26px;
+width: 218px;
+margin-left: 25px;
+margin-top: 30px;
+font-family: Graphik;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0em;
+text-align: center;
+
+}
+
+.buildindian {
+    height: 15px;
+width: 145px;
+margin-left: 45px;
+margin-top: 10px;
+font-family: Graphik;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 15px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.freeplanlayout {
+    height: 177px;
+width: 278px;
+margin-left: 20px;
+margin-top: 10px;
+border-radius: 0px;
+padding: 25px, 25px, 90px, 25px;
+background: #FFFFFF;
+border: 0.1px solid #000000
+}
+
+.freeplantext {
+    height: 22px;
+width: 62px;
+margin-left: 25px;
+margin-top: 25px;
+font-family: Graphik;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+.freeplaninnerflex {
+    display: flex;
+    flex-direction: row;
+}
+.rs0000 {
+    height: 22px;
+width: 53px;
+margin-left: 130px;
+margin-top: 25px;
+border-radius: nullpx;
+font-family: Graphik;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0.02em;
+text-align: left;
+font-family: Graphik;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0.02em;
+text-align: left;
+
+}
+
+.contact2000,.contact10000 {
+    height: 10px;
+width: 228px;
+margin-left: 25px;
+margin-top: 10px;
+font-family: Graphik;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 32px;
+letter-spacing: 0.02em;
+text-align: left;
+color: #000000;
+
+}
+
+.next {
+    height: 43px;
+width: 231.9862060546875px;
+margin-left: 10px;
+margin-top: 30px;
+border-radius: 0px;
+padding: 14px, 105px, 14px, 105px;
+background: #007C89;
+border: 0.1px solid #000000
+}
+
+.selectplans {
+    height: 22px;
+width: 177px;
+float: left;
+margin-left:50px;
+margin-top: 10px;
+border-radius: nullpx;
+font-family: Graphik;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+color: #007C89;
+}
+
+.rightsreserved {
+    height: 44px;
+width: 767px;
+margin-left: 11px;
+margin-top: 260px;
+font-family: Graphik;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 22px;
+letter-spacing: 0em;
+text-align: left;
+
+}
+
+.buildindianrupees {
+    color: #007C89;
+}
