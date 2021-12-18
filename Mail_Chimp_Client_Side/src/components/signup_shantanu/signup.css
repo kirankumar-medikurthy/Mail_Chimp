@@ -1,0 +1,319 @@
+*{
+    padding: 0%;
+    margin: 0;
+}
+.mainp{
+
+    display: flex;
+    width: 100%;
+}
+
+.yellowrect{
+ 
+    width: 531px;
+    height: 720px;
+   background-color: #FFE01B;
+   margin-left: 103px;
+  
+
+}
+
+.sidepic2{
+    height: 720px;
+    width: 541px;
+    left: 919px;
+    top: -4px;
+    border-radius: 0px;
+    position: absolute;
+    margin-left: 60px;
+    
+    
+
+}
+
+.boxin{
+   
+    
+    /* border: 2px solid black; */
+    height: 400px;
+    display: flex;
+    flex-direction: column;
+}
+
+.headingbox{
+
+    /* border: 2px solid red; */
+    height: 65px;
+    margin-top: 65px;
+    margin-left: 215px;
+}
+
+.formbox{
+    width: 200px;
+    /* border: 3px solid blue; */
+    margin-left: 215px;
+    margin-top: 30px;
+    width: 647px;
+}
+.firstbox{
+    display: flex;
+    flex-direction: column;
+}
+
+.emailbox{
+  
+    width: 620px;
+    height: 44px;
+    margin-top: 1px;
+    border: 1px solid #C4C4C4;
+    outline: none;
+
+}
+.heading1{
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 34px;
+line-height: 44px;
+}
+
+.heading2{
+    width: 206px;
+height: 32px;
+left: 215px;
+top: 107px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+
+letter-spacing: 0.02em;
+
+color: #000000;
+display: flex;
+align-items: center;
+
+}
+
+.secondbox{
+
+    display: flex;
+    flex-direction: column;
+    padding: 0%;
+    margin-top: 16px;
+
+}
+
+.userbox{
+    width: 620px;
+    height: 44px;
+    margin-top: 1px;
+    border: 1px solid #C4C4C4;
+    outline: none;
+}
+
+.thirdbox{
+
+    display: flex;
+    flex-direction: column;
+    padding: 0%;
+    margin-top: 16px;
+
+
+}
+
+.passbox{
+    width: 620px;
+    height: 44px;
+    margin-top: 1px;
+    border: 1px solid #C4C4C4;
+    outline: none;
+}
+.showhide{
+    display: flex;
+    justify-content: space-between;
+}
+
+.paslabel{
+    width: 92px;
+    height: 32px;
+    left: 215px;
+    top: 334px;
+    
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: 0.02em;
+    
+    /* Neutral/Default */
+    
+    color: #241C15;
+}
+
+.userlabel{
+    width: 98px;
+height: 32px;
+left: 215px;
+top: 241px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+
+letter-spacing: 0.02em;
+
+/* Neutral/Default */
+
+color: #241C15;
+}
+
+.checkdiv{
+    display: flex;
+    padding: 0;
+    margin-top: 29px;
+    align-items: center;
+
+}
+.aler{
+    margin-top: 0;
+    display: flex;
+    margin-left: 4px;
+}
+
+.submiting{
+    display: flex;
+    flex-direction: column;
+    padding: 0%;
+margin-top: 29px;
+
+}
+.submitbut{
+    width: 53px;
+height: 15px;
+width: 120px;
+height: 40px;
+display: flex;
+justify-content: center;
+align-items: center;
+margin-top: 16px;
+background:none;
+border: 1px solid #C4C4C4;
+font-family: Graphik;
+font-style: normal;
+font-weight: 500;
+font-size: 14px;
+line-height: 15px;
+
+color: #C4C4C4;
+
+
+}
+.mailchimpimg{
+    width: 61px;
+    height: 64px;
+}
+.yellowstrip{
+    width: 9px;
+    background-color:#FFE01B;
+    
+}
+.logioption{
+    left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 137% */
+
+text-decoration-line: underline;
+
+color: #007C89;
+margin-left: 6px;
+}
+
+.eyediv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-right: 26px;
+}
+
+.vector{
+    height: 12.5px;
+width: 18.333332061767578px;
+left: 0.833343505859375px;
+top: 3.75px;
+border-radius: 0px;
+margin-right: 6px;
+cursor: grab;
+
+}
+
+.show{
+    
+font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 137% */
+
+text-decoration-line: underline;
+
+color: #007C89;
+cursor: grab;
+}
+
+.emailchoice{
+    font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 137% */
+
+text-decoration-line: underline;
+
+color: #007C89;
+margin-left: 1.5px;
+margin-right: 1.5px;
+}
+
+.checkboxl{
+    height: 21px;
+width: 21px;
+left: 0px;
+top: 0px;
+border-radius: 0px;
+background-color: #C4C4C4;
+border: 3px solid #C4C4C4;;
+}
+
+.terms{
+    font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 137% */
+
+text-decoration-line: underline;
+
+color: #007C89;
+
+}
