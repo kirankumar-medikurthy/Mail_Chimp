@@ -721,7 +721,7 @@
 }
 .products label,
 .services label,
-.both label {
+.both label,.neither label{
   height: 16px;
   width: 16px;
   margin-left: 10px;
