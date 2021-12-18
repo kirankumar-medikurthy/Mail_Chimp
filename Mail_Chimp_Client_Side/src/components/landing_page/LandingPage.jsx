@@ -16,9 +16,9 @@ const LandingPage = () => {
                             <div><Button name='Sign Up'/></div>
                             <div className='para1'>No credit card required</div>
                         </div>
-                        <img className='i1' src={require('../images/image 5.svg').default} alt="" />
-                        <img className='i2' src={require('../images/ques.svg').default} alt="" />
-                        <img className='i3' src={require('../images/Frame 6.svg').default} alt="" />
+                        <img className='i1' src={require('../../../public/project_images/landingpage_images/image 5.svg').default} alt="" />
+                        <img className='i2' src={require('../../../public/project_images/landingpage_images/ques.svg').default} alt="" />
+                        <img className='i3' src={require('../../../public/project_images/landingpage_images/Frame 6.svg').default} alt="" />
                     </div>
                 </div>
 
@@ -31,20 +31,20 @@ const LandingPage = () => {
                     </div>
                     <div className='box1'>
                         <div className='box11'>
-                            <img className='a11' src={require('../images/image 15.svg').default} alt="" />
+                            <img className='a11' src={require('../../../public/project_images/landingpage_images/image 15.svg').default} alt="" />
                             <div className='a12'>Award-winning support</div>
                             <div className='a13'>Get the help you need, whenever you
                                 need it with our 24/7 support.</div>
                         </div>
                         <div className='box12'>
-                            <img className='a21' src={require('../images/image 16.svg').default} alt="" />
+                            <img className='a21' src={require('../../../public/project_images/landingpage_images/image 16.svg').default} alt="" />
                             <div className='a22'>250+ app integrations</div>
                             <div className='a23'>You  can connect your tools to Mailchimp
                                 and unlock even more features
                             </div>
                         </div>
                         <div className='box13'>
-                            <img className='a31' src={require('../images/image 17.svg').default} alt="" />
+                            <img className='a31' src={require('../../../public/project_images/landingpage_images/image 17.svg').default} alt="" />
                             <div className='a32'>A directory of trusted pros</div>
                             <div className='a33'>Take your marketing to the next level
                                 when you work with a Mailchimp partner.
@@ -53,10 +53,10 @@ const LandingPage = () => {
                     </div>
                     <div className='head22'>12 million businesses rely on Mailchimp:</div>
                     <div className='box2'>
-                        <img className='bi11' src={require('../images/image 95.svg').default} alt="" />
-                        <img className='bi12' src={require('../images/image 96.svg').default} alt="" />
-                        <img className='bi13' src={require('../images/image 97.svg').default} alt="" />
-                        <img className='bi14' src={require('../images/image 98.svg').default} alt="" />
+                        <img className='bi11' src={require('../../../public/project_images/landingpage_images/image 95.svg').default} alt="" />
+                        <img className='bi12' src={require('../../../public/project_images/landingpage_images/image 96.svg').default} alt="" />
+                        <img className='bi13' src={require('../../../public/project_images/landingpage_images/image 97.svg').default} alt="" />
+                        <img className='bi14' src={require('../../../public/project_images/landingpage_images/image 98.svg').default} alt="" />
                     </div>
                     <div className='head23'>Get Started For Free</div>
                     <div className='b2'><Button name='Sign Up'/></div>
@@ -69,7 +69,7 @@ const LandingPage = () => {
                         launch, build, and grow.
                     </div>
                     <div className='cont31'>
-                        <img className='im99' src={require('../images/image 99.svg').default} alt="" />
+                        <img className='im99' src={require('../../../public/project_images/landingpage_images/image 99.svg').default} alt="" />
                         <div className='cont311'>
                             <div className='head312'>Market your business</div>
                             <div className='para313'>Send the right messages on all the right channels. Build emails, social ads,
@@ -85,10 +85,10 @@ const LandingPage = () => {
                                 appointments directly from your website.
                             </div>
                         </div>
-                        <img className='im100' src={require('../images/image 100.svg').default} alt="" />
+                        <img className='im100' src={require('../../../public/project_images/landingpage_images/image 100.svg').default} alt="" />
                     </div>
                     <div className='cont31'>
-                        <img className='im99' src={require('../images/image 101.svg').default} alt="" />
+                        <img className='im99' src={require('../../../public/project_images/landingpage_images/image 101.svg').default} alt="" />
                         <div className='cont311'>
                             <div className='head312'>Automate your marketing</div>
                             <div className='para313'>Add a personal touch without the personal effort
@@ -99,7 +99,7 @@ const LandingPage = () => {
                     </div>
                     <div className='cont33'>
                         <div className='cont331'>
-                            <img className='im43' src={require('../images/image 43.svg').default} alt="" />
+                            <img className='im43' src={require('../../../public/project_images/landingpage_images/image 43.svg').default} alt="" />
                             <div className='im431'>Audience management</div>
                             <div className='im432'>Put your people at the heart of your
                                 marketing with tool that help you get to
@@ -108,7 +108,7 @@ const LandingPage = () => {
                             </div>
                         </div>
                         <div className='cont331'>
-                            <img className='im43' src={require('../images/image 42.svg').default} alt="" />
+                            <img className='im43' src={require('../../../public/project_images/landingpage_images/image 42.svg').default} alt="" />
                             <div className='im431'>Creative tools</div>
                             <div className='im432'>Let your brand shine through with easy-
                                 to-use design tools, flexible templates,
@@ -116,7 +116,7 @@ const LandingPage = () => {
                             </div>
                         </div>
                         <div className='cont331'>
-                            <img className='im43' src={require('../images/image 44.svg').default} alt="" />
+                            <img className='im43' src={require('../../../public/project_images/landingpage_images/image 44.svg').default} alt="" />
                             <div className='im431'>Insights and analytics</div>
                             <div className='im432'>With all your data and insights in one
                                 place, you can see what’s working best
@@ -133,33 +133,33 @@ const LandingPage = () => {
                     <div className='cont41'>
                         <div className='head4'>How can Mailchimp help me?
                         <div className='cont411'>
-                            <img className='down' src={require('../images/down.png').default} alt="" />
+                            <img className='down' src={require('../../../public/project_images/landingpage_images/down.png').default} alt="" />
                             <div className='head41'>E-Commerce and Retail</div>
                         </div>
                         <hr />
                         <div className='cont411'>
-                            <img className='down' src={require('../images/down.png').default} alt="" />
+                            <img className='down' src={require('../../../public/project_images/landingpage_images/down.png').default} alt="" />
                             <div className='head41'>Mobile and Web Apps</div>
                         </div>
                         <hr />
                         <div className='cont411'>
-                            <img className='down' src={require('../images/down.png').default} alt="" />
+                            <img className='down' src={require('../../../public/project_images/landingpage_images/down.png').default} alt="" />
                             <div className='head41'>Startups</div>
                         </div>
                         <hr />
                         <div className='cont411'>
-                            <img className='down' src={require('../images/down.png').default} alt="" />
+                            <img className='down' src={require('../../../public/project_images/landingpage_images/down.png').default} alt="" />
                             <div className='head41'>Agencies and Freelancers</div>
                         </div>
                         <hr />
                         <div className='cont411'>
-                            <img className='down' src={require('../images/down.png').default} alt="" />
+                            <img className='down' src={require('../../../public/project_images/landingpage_images/down.png').default} alt="" />
                             <div className='head41'>Developers</div>
                         </div>
                         <hr />
                     </div>
                     </div>
-                    <img className='im41' src={require('../images/image 102.svg').default} alt="" />
+                    <img className='im41' src={require('../../../public/project_images/landingpage_images/image 102.svg').default} alt="" />
                 </div>
                 
 
@@ -215,7 +215,7 @@ const LandingPage = () => {
                     </div>
                     <div className='cont62'>
                         <div className='cont621'>
-                            <div className='im4'><img src={require('../images/image 4.svg').default} alt="" /></div>
+                            <div className='im4'><img src={require('../../../public/project_images/landingpage_images/image 4.svg').default} alt="" /></div>
                             <div className='p62'>presents</div>
                         </div>
                         <div className='p63'>Films, podcats, and original
@@ -224,9 +224,9 @@ const LandingPage = () => {
                         </div>
                         <div className='p166'>
                             <div className='p16'>Check it out</div>
-                            <div className='arrow'><img src={require('../images/arrow.svg').default} alt="" /></div>
+                            <div className='arrow'><img src={require('../../../public/project_images/landingpage_images/arrow.svg').default} alt="" /></div>
                         </div>
-                        <div className='im5'><img src={require('../images/image 103.svg').default} alt="" /></div>
+                        <div className='im5'><img src={require('../../../public/project_images/landingpage_images/image 103.svg').default} alt="" /></div>
                         <div className='p63'>Expert insights, industry trends,
                             and inspiring stories that help
                             you live and work on your own
@@ -234,7 +234,7 @@ const LandingPage = () => {
                         </div>
                         <div className='p166'>
                             <div className='p16'>Learn more</div>
-                            <div className='arrow'><img src={require('../images/arrow.svg').default} alt="" /></div>
+                            <div className='arrow'><img src={require('../../../public/project_images/landingpage_images/arrow.svg').default} alt="" /></div>
                         </div>
                     </div>
                 </div>
@@ -242,19 +242,19 @@ const LandingPage = () => {
 
 
                 <div className='cont7'>
-                    <img className='im104' src={require('../images/image 104.svg').default} alt="" />
-                    <img className='im106' src={require('../images/image 106.svg').default} alt="" />
+                    <img className='im104' src={require('../../../public/project_images/landingpage_images/image 104.svg').default} alt="" />
+                    <img className='im106' src={require('../../../public/project_images/landingpage_images/image 106.svg').default} alt="" />
                     <div className='cont71'>
-                        <img className='im71' src={require('../images/face.svg').default} alt="" />
-                        <img className='im71' src={require('../images/twit.svg').default} alt="" />
-                        <img src={require('../images/insta.svg').default} alt="" />
-                        <img src={require('../images/linkin.svg').default} alt="" />
-                        <img className='im71' src={require('../images/p.svg').default} alt="" />
+                        <img className='im71' src={require('../../../public/project_images/landingpage_images/face.svg').default} alt="" />
+                        <img className='im71' src={require('../../../public/project_images/landingpage_images/twit.svg').default} alt="" />
+                        <img src={require('../../../public/project_images/landingpage_images/insta.svg').default} alt="" />
+                        <img src={require('../../../public/project_images/landingpage_images/linkin.svg').default} alt="" />
+                        <img className='im71' src={require('../../../public/project_images/landingpage_images/p.svg').default} alt="" />
                     </div>
                     <div className='cont72'>
                         <div className='cont721'>
                             <div className='text'>English</div>
-                            <img className='imt' src={require('../images/down.png').default} alt="" />
+                            <img className='imt' src={require('../../../public/project_images/landingpage_images/down.png').default} alt="" />
                         </div>
                         <div className='cont722'>@2001-2021 All Rights Reserved. Mailchinp is a registered
                             trademark of The Rocket Science Group. Apple and the Apple logo
@@ -265,7 +265,7 @@ const LandingPage = () => {
                     </div>
                 </div>
                 <div>
-                    <img className='ques' src={require('../images/ques.svg').default} alt="" />
+                    <img className='ques' src={require('../../../public/project_images/landingpage_images/ques.svg').default} alt="" />
                 </div>
             </div>
         </>
