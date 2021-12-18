@@ -1,0 +1,289 @@
+
+.abox{
+    display: flex;
+   
+
+    
+}
+
+.yrect{
+    
+    width: 445px;
+height: 980px;
+
+top: 0px;
+
+background: #FFE01B;
+}
+.navnote{
+
+    width: 1086px;
+   
+    left: 9px;
+  
+    
+    /* Neutral/65 */
+    
+    border-bottom: 1px solid #716B67;
+
+}
+.accountset{
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 24px;
+line-height: 31px;
+/* identical to box height */
+
+
+color: #000000;
+margin-left: 70px;
+margin-top: 15px;
+}
+
+.adresapan{
+    border-bottom: 2px solid #007C89;
+    font-weight: bold;
+    color: black;
+    margin: 0 5px 0 5px;
+}
+
+.sideyrec{
+    width: 9px;
+height: 940px;
+left: 0px;
+top: 0px;
+
+background: #FFE01B;
+}
+
+.rot{
+    /* width: 80px; */
+/* height: 22px;
+left: 373.5px;
+top: 56px; */
+display: flex;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+/* line-height: 22px; */
+/* identical to box height, or 137% */
+
+
+/* Neutral/65 */
+
+color: #716B67;
+margin-left: 70px;
+margin-top: 10px;
+}
+
+.bottomline{
+
+    border-bottom:1px solid #716B67;
+    width: 1086px;
+    height: 2px;
+    margin-top: 25px;
+}
+
+.mainsbox{
+
+}
+.add_text{
+    
+height: 56px;
+left: 215px;
+top: 146px;
+
+/* H1 */
+
+margin-top: 42px;
+font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 44px;
+line-height: 56px;
+
+color: #000000;
+}
+
+.formdatadiv{
+    width: 512px;
+    height: 200px;
+    margin-left: 215px;
+    /* background-color: blueviolet; */
+    margin-top: 42px;
+
+}
+.formdis{
+  
+width: 512px;
+height: 66px;
+left: 215px;
+top: 212px;
+
+font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* or 137% */
+
+
+/* Neutral/Default */
+
+color: #241C15;
+
+}
+
+.inpttext{
+    width: 471px;
+    height: 32px;
+    left: 215px;
+    margin-top: 30px;
+    
+    font-family: Graphik;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+    
+    letter-spacing: 0.02em;
+    
+    /* Neutral/Default */
+    
+    color: #241C15;
+}
+
+.addres1{
+    border: 1px solid #241C15;
+box-sizing: border-box;
+height: 44px;
+width: 489px;
+
+border-radius: 0px;
+margin-bottom: 10px;
+
+}
+
+.addres2box{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.inpttex{
+    font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+
+letter-spacing: 0.02em;
+
+/* Neutral/Default */
+
+color: #241C15;
+}
+
+
+.optioninput{
+    font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 137% */
+
+
+/* Neutral/65 */
+
+color: #716B67;
+margin-right: 30px;
+}
+
+
+.citylabel{
+    
+font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+
+letter-spacing: 0.02em;
+
+/* Neutral/Default */
+
+color: #241C15;
+}
+
+.citybox{
+    display: flex;
+    flex-direction: column;
+    padding-left: 0%;
+    width: 238px;
+}
+
+.cityinput{
+    height: 44px;
+}
+
+.detailbox{
+    display: flex;
+    justify-content: space-between;
+    width: 489px;
+    margin-bottom: 10px;
+}
+
+.zipttext{
+    font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+
+letter-spacing: 0.02em;
+
+/* Neutral/Default */
+
+color: #241C15;
+}
+
+.countrylabel{
+    font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 20px;
+line-height: 32px;
+/* identical to box height, or 160% */
+
+letter-spacing: 0.02em;
+
+/* Neutral/Default */
+
+color: #241C15;
+}
+.Continuebut{
+    padding-left: 29px;
+    padding-right: 29px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    margin-top: 41px;
+    background-color: #007C89;
+    border: none;
+    color: white;
+}
+
+.sidepic3{
+    width: 541px;
+    height: 743px;
+    left: 1020px;
+    top: 24px;
+    position: absolute;
+}
