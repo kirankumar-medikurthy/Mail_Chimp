@@ -110,27 +110,36 @@ One caveat of working in a team that i felt was of major concern:
 # Some snapshots of how our website looks : 
 
 ## Home page
+
 [<img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/Homepage.png?raw=true" width="80%"/>](Home)
 
 ## Menu  Page
+
 [<img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/Sidebar.png?raw=true" width="80%"/>](Menu)
 
 ## signup Page
+
 [<img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/login&signup.png?raw=true" width="80%"/>](signup)
 
 ## Marketing Platform Page
+
 <img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/marketingplatform.png?raw=true" width="80%" alt="Marketing Platform"/>
 
 ## Welcome to Mail Chimp page
+
 <img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/Creating_mail_Chimp.png?raw=true" width="80%" alt="Welcome to Mail Chimp"/>
 
 ## Import Contacts page
+
 <img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/importdata.png?raw=true" width="80%" alt="Import Contacts"/> 
+
 ## Email Template Creation Page
+
 <img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/EmailTemplate.png?raw=true" width="80%" alt="Email Template"/> 
 
 ## Track the Email Status Page
-<img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/TrackingStatus.png?raw=true" width="80%"/ alt="Tracking Status">
+
+<img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/TrackingStatus.png?raw=true" width="80%" alt="Tracking Status" />
 
 
   
