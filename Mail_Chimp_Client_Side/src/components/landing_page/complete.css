@@ -1,0 +1,82 @@
+.cont11{
+    width: 100%;
+margin: 0%;
+background: #FFFFFF;
+
+}
+
+.cont111{
+    display: flex;
+flex-direction: column;
+margin-left: 15%;
+margin-top: 8%;
+padding-bottom: 1.5%;
+}
+.h111{
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 44px;
+line-height: 56px;
+
+color: #000000;
+
+}
+.p111{
+    font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height, or 122% */
+
+
+color: #000000;
+
+padding-top: 1.5%;
+padding-bottom: 1.5%;
+
+}
+
+
+
+
+.cont113{
+    font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* or 137% */
+
+
+/* Neutral/65 */
+
+color: #716B67;
+width: 43%;
+padding-bottom: 2%;
+}
+
+.cont114{
+    display: flex;
+    flex-direction: row;
+    gap: 4%;
+}
+li{
+    font-family: Graphik;
+font-style: normal;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 137% */
+
+
+color: #000000;
+height: 38px;
+
+}
+
+.quest{
+    margin-top: 2.5%;
+margin-left: 139%;
+width: 3%;
+}

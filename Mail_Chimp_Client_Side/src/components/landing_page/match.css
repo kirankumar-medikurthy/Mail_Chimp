@@ -1,0 +1,113 @@
+.cont10{
+    width: 100%;
+margin: 0%;
+background: #FFFFFF;
+
+}
+
+
+.cont101{
+    display: flex;
+flex-direction: column;
+margin-left: 15%;
+margin-top: 8%;
+padding-bottom: 1.5%;
+}
+
+.h101{
+    font-family: Lora;
+font-style: normal;
+font-weight: normal;
+font-size: 44px;
+line-height: 56px;
+
+color: #000000;
+
+}
+
+.p101{
+    font-family: Graphik;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 17px;
+/* identical to box height */
+
+
+color: #000000;
+padding-top: 1.5%;
+padding-bottom: 1.5%;
+
+}
+
+.p102{
+    font-family: Graphik;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 22px;
+/* identical to box height, or 137% */
+
+
+/* Neutral/65 */
+
+color: #716B67;
+
+padding-top: 1.5%;
+padding-bottom: 1.5%;
+
+}
+
+.cont102{
+    display: grid;
+grid-template-columns: 20% 20% 20%;
+    
+}
+
+.cont102>div{
+    background-color: rgba(255, 255, 255, 0.8);
+border: 1px solid rgba(0, 0, 0, 0.8);
+padding: 1%;
+height: 140px;
+font-family: Graphik;
+font-style: normal;
+font-weight: 600;
+font-size: 15px;
+line-height: 17px;
+/* identical to box height */
+
+color: #000000;
+}
+
+.cont103{
+    display: flex;
+flex-direction: row;
+padding-top: 20px;
+}
+
+.cont104{
+    display: flex;
+flex-direction: row;
+gap: 20px;
+padding: 10px;
+}
+
+.cont105{
+    display: flex;
+    flex-direction: column;
+    gap: 2%;
+}
+
+.cont105>img{
+    width: 70%;
+}
+
+.cont106{
+    margin: 5% 15.5%;
+}
+
+.que{
+    margin-top: 2.5%;
+margin-left: 96%;
+width: 2.56%;
+}
