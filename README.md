@@ -23,7 +23,7 @@
     * dotenv
     * jsonwebtoken
 
-[<img src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" width="50"/>](react)    [<img src="https://www.pngkit.com/png/full/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png" width="50"/>](mongodb)  [<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="50"/>](HTML)  [<img src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" width="50"/>](CSS)    [<img src="" width="50"/>](css)  [<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="50"/>](Javascript)
+[<img src="https://www.pngfind.com/pngs/m/685-6854994_react-logo-no-background-hd-png-download.png" width="50"/>](react)    [<img src="https://www.pngkit.com/png/full/225-2254691_9kib-354x415-unnamed-mongodb-logo-svg.png" width="50"/>](mongodb)  [<img src="https://cdn-icons-png.flaticon.com/512/919/919827.png" width="50"/>](HTML)  [<img src="https://icon-library.com/images/css-icon-png/css-icon-png-0.jpg" width="50" height="30"/>](CSS)  [<img src="https://cdn.iconscout.com/icon/free/png-256/javascript-2038874-1720087.png" width="50"/>](Javascript)
 
 ## Links Related to Blog and Link to run project  in a Browser
 
@@ -122,14 +122,12 @@ One caveat of working in a team that i felt was of major concern:
 [<img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/marketingplatform.png?raw=true" width="80%"/>](Marketing Platform)
 
 ## Welcome to Mail Chimp page
-[<img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/Creating_mail_Chimp.png?raw=true" width="100%"/>](Welcome to Mail Chimp)
+[<img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/Creating_mail_Chimp.png?raw=true" width="80%"/>](Welcome to Mail Chimp)
 
 ## Import Contacts page
 [<img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/importdata.png?raw=true" width="80%"/>](Import Contacts)
-
 ## Email Template Creation Page
 [<img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/EmailTemplate.png?raw=true" width="80%"/>](Email Template)
-
 
 ## Track the Email Status Page
 [<img src="https://github.com/kirankumar-medikurthy/Mail_Chimp/blob/main/Mail_Chimp_Client_Side/public/project_images/Readme_Images/TrackingStatus.png?raw=true" width="80%"/>](Track Status)
