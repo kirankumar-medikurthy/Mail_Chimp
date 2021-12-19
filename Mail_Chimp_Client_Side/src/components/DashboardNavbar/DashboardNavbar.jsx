@@ -1,12 +1,15 @@
 import React from "react";
 import "./DashboardNavbar.css";
-
+import axios from "axios";
 import { Logo, Email } from "../Icons/Icons";
 import { useParams } from "react-router-dom/cjs/react-router-dom.min";
 
 const DashboardNavbar = () => {
   const { type } = useParams();
   console.log("boolean", type);
+  const sendMail = async () => {
+    await axios.get("http://localhost:9656/users");
+  };
   return (
     <>
       <div className="nav-items-mk">
@@ -32,7 +35,7 @@ const DashboardNavbar = () => {
                 <p>Schedule</p>
               </div>
               <div className="design-email-btn-2-mk">
-                <p>Send</p>
+                <p onClick={sendMail}>Send</p>
               </div>
             </div>
           </>

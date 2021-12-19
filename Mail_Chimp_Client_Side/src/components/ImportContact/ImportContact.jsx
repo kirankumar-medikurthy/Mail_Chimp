@@ -53,15 +53,15 @@ const ImportContact = () => {
             <p>Address</p>
           </div>
           <div className="contact-list-mk">
-            <p>amelia@gmail.com</p>
-            <p>Amerlia</p>
-            <p>Breiner</p>
+            <p>madanakrishnan.i@gmail.com</p>
+            <p>Madan</p>
+            <p>Krishnan</p>
             <p>Near 154 Dr.Apt NC 28762 US</p>
           </div>
           <div className="contact-list-mk">
-            <p>amelia@gmail.com</p>
-            <p>Amerlia</p>
-            <p>Breiner</p>
+            <p>kirankumar@gmail.com</p>
+            <p>Kiran</p>
+            <p>Kumar</p>
             <p>Near 154 Dr.Apt NC 28762 US</p>
           </div>
         </div>
