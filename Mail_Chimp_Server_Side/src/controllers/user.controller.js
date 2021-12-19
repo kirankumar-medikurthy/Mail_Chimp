@@ -5,8 +5,6 @@ const userModel = require('../models/user.model');
 const sendMail = require('../utils/sendMail');
 
 const router = express.Router();
-
-
 router.get("", async(req, res) => {
 
     const page = +req.query.page || 1;
@@ -20,7 +18,7 @@ router.get("", async(req, res) => {
 
     sendMail({
         from: "kiran1999m1234@gmail.com",
-        to: "ankush@masai.school",
+        to: "madanakrishnan.i@gmail.com",
         subject: "Welcome to the mail checking Mail chimp",
         text: "Welcome to the clearing you any data pattern mailtrap and nodemailer through mailchimp",
         html: "<p> Mvc pattern Welcome to the mailtrap and nodemailer through mailchimp</p>",
