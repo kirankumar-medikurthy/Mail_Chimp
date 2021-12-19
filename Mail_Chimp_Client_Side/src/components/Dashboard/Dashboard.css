@@ -1,0 +1,12 @@
+.container-mk {
+  display: flex;
+}
+
+.yellow-bar-mk {
+  border-left: 9px solid #ffe01b;
+  height: 100vh;
+}
+
+.dashbaord-content-mk {
+  display: flex;
+}

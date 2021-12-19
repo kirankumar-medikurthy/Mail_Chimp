@@ -1,0 +1,29 @@
+.contact-view-mk {
+  width: 940px;
+  height: 197px;
+  border: 1px solid #000000;
+  overflow-y: scroll;
+}
+
+.contact-list-mk {
+  display: flex;
+  gap: 83px;
+}
+
+.contact-list-mk p {
+  margin: 0;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 10px;
+}
+
+.contact-paste-mk {
+  width: 337px;
+  height: 22px;
+  font-family: Graphik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 22px;
+  color: #000000;
+}

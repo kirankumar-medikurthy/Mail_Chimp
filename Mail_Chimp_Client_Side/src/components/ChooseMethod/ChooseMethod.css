@@ -1,0 +1,83 @@
+.import-contact-container-mk {
+  width: 100vw;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+.import-contact-nav-mk {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-right: 50px;
+}
+
+.import-contact-nav-item-mk {
+  display: flex;
+  height: 75px;
+  align-items: center;
+  gap: 10px;
+  margin-left: 17px;
+}
+
+.breadcrumbs {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.import-contact-heading-mk {
+  height: 26px;
+  font-family: Lora;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 20px;
+  line-height: 26px;
+  margin: 0;
+}
+
+.breadcrumbs p {
+  height: 22px;
+  font-family: Graphik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 22px;
+  letter-spacing: 0.02em;
+  color: #000000;
+}
+
+.import-content-mk {
+  width: 920px;
+  margin: 80px auto;
+}
+
+.import-content-mk h1 {
+  width: 920px;
+  height: 56px;
+  font-family: Lora;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 44px;
+  line-height: 56px;
+  color: #000000;
+  margin: 0;
+}
+
+.import-sub-heading-mk {
+  width: 215px;
+  height: 15px;
+  font-family: Graphik;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 15px;
+  color: #000000;
+}
+
+.import-options-items-mk {
+  display: flex;
+  align-items: center;
+}
+
+input[type="radio"] {
+  font-size: 24px;
+}

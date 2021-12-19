@@ -1,4 +1,5 @@
 import "./singup.css";
+import { Link } from "react-router-dom";
 export const Signup6 = () => {
   return (
     <div id="singup4layout">
@@ -70,7 +71,9 @@ export const Signup6 = () => {
               <label>Neither</label>
             </div>
           </div>
-          <button className="continuebtnsignup6">Continue</button>
+          <Link to={`/dashboard/page/audience`}>
+            <button className="continuebtnsignup6">Continue</button>
+          </Link>
         </div>
         <div className="rightsreservedsignup6">
           2001-2021 All Rights Reserved. Mailchimp is a registered trademark of
