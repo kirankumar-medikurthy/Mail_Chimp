@@ -10,6 +10,8 @@ const userController = require("./controllers/user.controller");
 
 const { register, login, newToken } = require("./controllers/auth.controller");
 
+const port = process.env.PORT || 5000;
+
 const app = express();
 
 app.use(express.json());
@@ -50,8 +52,8 @@ app.get('/auth/google/callback',
 const start = async() => {
     await connect();
 
-    app.listen(9656, () => {
-        console.log('listening on port 9656');
+    app.listen(port, () => {
+        console.log(`listening on port ${port}`);
     })
 }
 
