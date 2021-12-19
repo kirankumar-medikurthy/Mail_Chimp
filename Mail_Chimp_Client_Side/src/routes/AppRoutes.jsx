@@ -16,6 +16,7 @@ import Contacts from "../components/landing_page/Contacts";
 import Match from "../components/landing_page/Match";
 import Complete from "../components/landing_page/Complete";
 import Success from "../components/landing_page/Success";
+import Signup from "../components/signup_shantanu/signup";
 
 const AppRoutes = () => {
   return (
@@ -31,6 +32,9 @@ const AppRoutes = () => {
           <Page4 />
         </Route>
         <Route path="/signup" exact>
+          <Signup />
+        </Route>
+        <Route path="/signup/accsetup" exact>
           <Signup3 />
         </Route>
         <Route path="/signup/accountsetup" exact>
