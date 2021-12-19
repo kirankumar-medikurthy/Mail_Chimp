@@ -1,0 +1,125 @@
+.nav-items-mk {
+  width: 100vw;
+  display: flex;
+  height: 75px;
+  align-items: center;
+  /* gap: 300px; */
+  justify-content: space-between;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+}
+
+.logo-mk {
+  margin-left: 15px;
+}
+
+.nav-items-mk p {
+  width: auto;
+  height: 31px;
+  font-family: Lora;
+  font-size: 24px;
+  line-height: 31px;
+}
+
+.design-email-nav-mk {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+}
+
+.design-email-nav-mk p:nth-child(3) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 6px 14px;
+  height: 22px;
+  background: #c4c4c4;
+  border-radius: 24px;
+  font-family: Graphik;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 15px;
+  color: #000000;
+}
+
+.design-email-items-nav-mk p {
+  margin: 0;
+}
+
+.design-email-items-nav-mk p:nth-child(1) {
+  height: 18px;
+  font-family: Graphik;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 18px;
+  color: #241c15;
+}
+
+.design-email-items-nav-mk p:nth-child(2) {
+  width: 69px;
+  height: 15px;
+  font-family: Graphik;
+  font-style: normal;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 15px;
+  color: #241c15;
+}
+
+.design-email-btn-mk {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.design-email-btn-1-mk {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 26px;
+  width: 116px;
+  height: 35px;
+  background: #c4c4c4;
+}
+
+.design-email-btn-1-mk p:nth-child(1) {
+  width: 63px;
+  height: 15px;
+  /* font-family: Graphik; */
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 15px;
+  color: #241c15;
+}
+
+.design-email-btn-2-mk {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 26px;
+  width: 116px;
+  height: 35px;
+  background: #007c89;
+}
+
+.design-email-btn-2-mk p:nth-child(1) {
+  width: 63px;
+  height: 15px;
+  /* font-family: Graphik; */
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 15px;
+  color: #ffffff;
+}
+
+.finish-later-mk {
+  font-family: Graphik;
+  font-style: normal;
+  font-weight: normal;
+  line-height: 22px;
+  text-decoration-line: underline;
+  color: #007c89;
+}

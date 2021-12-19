@@ -112,7 +112,7 @@
   display: flex;
   color: #716b67;
 }
-.contact {
+.contact-kk {
   height: 22px;
   width: 62px;
   margin-left: 20px;
@@ -188,8 +188,8 @@
   border: 0.25px solid #000000;
 }
 
-.box1,
-.box2,
+.box1-kk,
+.box2-kk,
 .box3,
 .box4 {
   height: 370px;
@@ -476,7 +476,7 @@
 .letsetupaccount {
   height: 56px;
   width: 512px;
-  margin-left: 213px;
+  margin-left: 150px;
   margin-top: 20px;
   font-family: Lora;
   font-size: 44px;
@@ -490,12 +490,14 @@
 .firstnamelastnamelayout {
   display: flex;
   flex-direction: row;
+  align-items: center;
+  justify-content: center;
 }
 
 .firstname {
   height: 32px;
   width: 106px;
-  margin-left: 85px;
+  margin-left: 17px;
   margin-top: 10px;
   font-family: Graphik;
   font-size: 20px;
@@ -509,7 +511,7 @@
 .firstname_inputbox {
   height: 44px;
   width: 218px;
-  margin-left: 214px;
+  margin-left: 13px;
   border: 1px solid #241c15;
 }
 
@@ -536,7 +538,7 @@
 .businessname {
   height: 32px;
   width: 150px;
-  margin-left: -220px;
+  margin-left: 148px;
   margin-top: 20px;
   font-family: Graphik;
   font-size: 20px;
@@ -558,7 +560,7 @@
 .phonenumber {
   height: 32px;
   width: 125px;
-  margin-left: -220px;
+  margin-left: 148px;
   margin-top: 20px;
   font-family: Graphik;
   font-size: 20px;
@@ -580,7 +582,7 @@
 .continue {
   height: 43px;
   width: 120px;
-  margin-left: -220px;
+  margin-left: 148px;
   margin-top: 10px;
   padding: 14px, 29px, 14px, 29px;
   background: #007c89;
@@ -643,11 +645,11 @@
 
 .contractyes,
 .contractno {
-  margin-left: -290px;
+  margin-left: 212px;
   margin-top: 20px;
 }
 .contractsure {
-  margin-left: -212px;
+  margin-left: 212px;
   margin-top: 20px;
 }
 .contractyes label,
@@ -659,7 +661,7 @@
 .continuebtnsignup5 {
   height: 43px;
   width: 120px;
-  margin-left: -225px;
+  margin-left: 225px;
   margin-top: 20px;
   border-radius: 0px;
   padding: 14px, 29px, 14px, 29px;
@@ -702,26 +704,27 @@
 }
 
 .products {
-  margin-left: -280px;
+  margin-left: 240px;
   margin-top: 20px;
 }
 
 .services {
-  margin-left: -287px;
+  margin-left: 240px;
   margin-top: 20px;
 }
 
 .both {
-  margin-left: -310px;
+  margin-left: 240px;
   margin-top: 20px;
 }
 .neither {
-  margin-left: -300px;
+  margin-left: 240px;
   margin-top: 20px;
 }
 .products label,
 .services label,
-.both label,.neither label{
+.both label,
+.neither label {
   height: 16px;
   width: 16px;
   margin-left: 10px;
@@ -747,7 +750,7 @@
 .continuebtnsignup6 {
   height: 43px;
   width: 120px;
-  margin-left: -240px;
+  margin-left: 240px;
   margin-top: 20px;
   border-radius: 0px;
   padding: 14px, 29px, 14px, 29px;
@@ -763,24 +766,23 @@
 
 .rightsreservedsignup6 {
   height: 30px;
-width: 671px;
-margin-left: 20px;
-margin-top: 100px;
-font-family: Graphik;
-font-size: 14px;
-font-style: normal;
-font-weight: 400;
-line-height: 15px;
-letter-spacing: 0em;
-text-align: left;
-font-family: Graphik;
-font-size: 14px;
-font-style: normal;
-font-weight: 300;
-line-height: 15px;
-letter-spacing: 0em;
-text-align: left;
-
+  width: 671px;
+  margin-left: 20px;
+  margin-top: 100px;
+  font-family: Graphik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
+  font-family: Graphik;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 300;
+  line-height: 15px;
+  letter-spacing: 0em;
+  text-align: left;
 }
 
 .flowerimagelayoutsingup6 {

@@ -1,0 +1,80 @@
+.buttons-mk {
+  width: 8.688rem;
+  height: 3.688rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.button1-mk {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.375rem 2.688rem;
+  height: 0.983rem;
+  margin: 0;
+  background: #007c89;
+  border: none;
+  color: #ffffff;
+  line-height: 0.963rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.button1-mk:hover {
+  background: #00636e;
+}
+
+.button2-mk {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.375rem 2.688rem;
+  height: 0.983rem;
+  margin: 0;
+  background: #ffffff;
+  border: 1px solid #000000;
+  color: #000000;
+  line-height: 0.963rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.button2-mk:hover {
+  background: #e9e8e7;
+}
+
+.button3-div-mk {
+  width: 171px;
+  height: 55px;
+}
+
+.button3-mk {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px 29px;
+  width: 200px;
+  margin: 0;
+  background: #ffffff;
+  border: 1px solid #007c89;
+  color: #007c89;
+  line-height: 15px;
+  font-size: 0.875rem;
+  font-weight: 500;
+}
+
+.button4-mk {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 1.375rem 2.688rem;
+  height: 0.983rem;
+  margin: 0;
+  background: #c4c4c4;
+  border: none;
+  color: #241c15;
+  line-height: 0.963rem;
+  font-size: 0.875rem;
+  font-weight: 500;
+}

@@ -641,249 +641,253 @@ top: 253.33251953125px; */
   background: #007c89;
 }
 
-.businessOnlineImage,.prefer_to_pay {
+.businessOnlineImage,
+.prefer_to_pay {
   height: 303px;
   width: 426px;
   margin-top: 50px;
-  margin-left:200px;
+  margin-left: 200px;
 }
 
-.businessOnlineImagelayout1, .businessOnlineImagelayout2,.businessOnlineImagelayout3 {
-  display:flex;
+.businessOnlineImagelayout1,
+.businessOnlineImagelayout2,
+.businessOnlineImagelayout3 {
+  display: flex;
   flex-direction: row;
-  margin-top:50px;
+  margin-top: 50px;
 }
 .businessOnlineImagelayout3 {
-  background-color:#F6F6F4;
-  ;
+  background-color: #f6f6f4;
 }
 
-.businessOnlineMarketing,.insteadofpaying {
+.businessOnlineMarketing,
+.insteadofpaying {
   height: 108px;
-width: 440px;
-margin-left: 150px;
-margin-top: 20px;
-font-family: Graphik;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 22px;
-letter-spacing: 0em;
-text-align: left;
+  width: 440px;
+  margin-left: 150px;
+  margin-top: 20px;
+  font-family: Graphik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
 }
 
-.freetools,.prefer_to_pay_you {
+.freetools,
+.prefer_to_pay_you {
   height: 66px;
-width: 342px;
-margin-left: 150px;
-margin-top:80px;
-font-family: Lora;
-font-size: 26px;
-font-style: normal;
-font-weight: 400;
-line-height: 33px;
-letter-spacing: 0em;
-text-align: left;
-
+  width: 342px;
+  margin-left: 150px;
+  margin-top: 80px;
+  font-family: Lora;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: left;
 }
 
-.seewebsite,.learnmore {
+.seewebsite,
+.learnmore {
   height: 43px;
-width: 271px;
-margin-top: 20px;
-border-radius: 0px;
-padding: 14px, 29px, 14px, 29px;
-color: #004E56;
+  width: 271px;
+  margin-top: 20px;
+  border-radius: 0px;
+  padding: 14px, 29px, 14px, 29px;
+  color: #004e56;
+  margin-left: 152px;
 }
 
-.learnmore,.getstarted {
+.learnmore,
+.getstarted {
   height: 43px;
-width: 134px;
-margin-left: -150px;
-margin-top: 20px;
-border-radius: 0px;
-padding: 14px, 29px, 14px, 29px;
-border: 1px solid #007C89,
-} 
-
+  width: 134px;
+  margin-left: 150px;
+  margin-top: 20px;
+  border-radius: 0px;
+  padding: 14px, 29px, 14px, 29px;
+  border: 1px solid #007c89;
+}
 
 .twofactorauthentication {
   display: flex;
   flex-direction: row;
-  margin-top:200px;
+  margin-top: 200px;
   margin-left: 200px;
 }
 
 .horizantalLine {
   height: 286.5px;
-width: 0px;
-margin-left:0px;
-margin-top: 10px;
-border-radius: 0px;
-border: 1px solid #716B67
+  width: 0px;
+  margin-left: 0px;
+  margin-top: 10px;
+  border-radius: 0px;
+  border: 1px solid #716b67;
 }
 
-.twofactortitle{
+.twofactortitle {
   height: 62px;
-width: 351px;
-margin-left: 50px;
-top: 4260px;
-font-family: Graphik;
-font-size: 28px;
-font-style: normal;
-font-weight: 400;
-line-height: 31px;
-letter-spacing: 0em;
-text-align: left;
-color: #241C15;
+  width: 351px;
+  margin-left: 50px;
+  top: 4260px;
+  font-family: Graphik;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #241c15;
 }
 
-.twofactorcontent,.ratefornonprofitscontent {
+.twofactorcontent,
+.ratefornonprofitscontent {
   height: 87px;
-width: 490px;
-margin-left: 50px;
-margin-top: 30px;
-font-family: Graphik;
-font-size: 16px;
-font-style: normal;
-font-weight: 400;
-line-height: 22px;
-letter-spacing: 0em;
-text-align: left;
-color: #241C15;
+  width: 490px;
+  margin-left: 50px;
+  margin-top: 30px;
+  font-family: Graphik;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #241c15;
 }
 
 .getstartedtwofactor {
   height: 43px;
-width: 136px;
-margin-top: 40px;
-border-radius: 0px;
-padding: 14px, 29px, 14px, 29px;
-border: 1px solid #007C89;
-margin-left: -300px;
+  width: 136px;
+  margin-top: 40px;
+  border-radius: 0px;
+  padding: 14px, 29px, 14px, 29px;
+  border: 1px solid #007c89;
+  margin-left: 300px;
 }
 
 .ratefornonprofits {
   height: 31px;
   width: 435px;
-margin-left: 50px;
-top: 4260px;
-font-family: Graphik;
-font-size: 28px;
-font-style: normal;
-font-weight: 400;
-line-height: 31px;
-letter-spacing: 0em;
-text-align: left;
-
+  margin-left: 50px;
+  top: 4260px;
+  font-family: Graphik;
+  font-size: 28px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 31px;
+  letter-spacing: 0em;
+  text-align: left;
 }
 
 .sendinglimit {
   height: 33px;
-width: 605px;
-margin-left: 561px;
-margin-top: 50px;
-font-family: Lora;
-font-size: 26px;
-font-style: normal;
-font-weight: 400;
-line-height: 33px;
-letter-spacing: 0em;
-text-align: left;
-
+  width: 605px;
+  margin-left: 561px;
+  margin-top: 50px;
+  font-family: Lora;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: left;
 }
 
 .FAQs {
   height: 40px;
-width: 87px;
-margin-left: 230px;
-margin-top: 80px;
-font-family: Graphik;
-font-size: 36px;
-font-style: normal;
-font-weight: 400;
-line-height: 40px;
-letter-spacing: 0em;
-text-align: left;
-
+  width: 87px;
+  margin-left: 230px;
+  margin-top: 80px;
+  font-family: Graphik;
+  font-size: 36px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0em;
+  text-align: left;
 }
 
 .tablecontent {
-margin-left: 215px;
-margin-top: 25px;
-height: 370px;
-width: 1100px;
-border: 1px solid #000000
-
+  margin-left: 215px;
+  margin-top: 25px;
+  height: 370px;
+  width: 1100px;
+  border: 1px solid #000000;
 }
-.paymentmethodoffer,.paymentmethodoffer1,.paymentmethodoffer2,.paymentmethodoffer3,.paymentmethodoffer4 {
+.paymentmethodoffer,
+.paymentmethodoffer1,
+.paymentmethodoffer2,
+.paymentmethodoffer3,
+.paymentmethodoffer4 {
   height: 33px;
-width:96.5%;
-font-family: Lora;
-font-size: 26px;
-font-style: normal;
-font-weight: 400;
-line-height: 33px;
-letter-spacing: 0em;
-text-align: left;
-border-bottom:1px solid black;
-padding:20px;
+  width: 96.5%;
+  font-family: Lora;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 33px;
+  letter-spacing: 0em;
+  text-align: left;
+  border-bottom: 1px solid black;
+  padding: 20px;
 }
 
 .paymentmethodoffer4 {
-  border-bottom:none;
+  border-bottom: none;
 }
 
 .goodcompany {
   height: 112px;
-width: 334px;
-margin-left: 553px;
-margin-top: 50px;
-font-family: Lora;
-font-size: 44px;
-font-style: normal;
-font-weight: 400;
-line-height: 56px;
-letter-spacing: 0em;
-text-align: center;
-color: #000000;
-
+  width: 334px;
+  margin-left: 553px;
+  margin-top: 50px;
+  font-family: Lora;
+  font-size: 44px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 56px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #000000;
 }
 
 .footerimages {
   display: flex;
   flex-direction: row;
-  margin-top:80px;
+  margin-top: 80px;
 }
 
 .eastfork {
   height: 20px;
-width: 155px;
-margin-left: 300px;
-margin-top: 50px;
-border-radius: 0px;
+  width: 155px;
+  margin-left: 300px;
+  margin-top: 50px;
+  border-radius: 0px;
 }
 
 .cronicalimage {
   height: 132px;
-width: 160px;
-margin-left: 50px;
-margin-top: 0px;
+  width: 160px;
+  margin-left: 50px;
+  margin-top: 0px;
 }
 
 .fader {
   height: 50px;
-width: 158px;
-margin-left: 50px;
-margin-top: 35px;
-border-radius: 0px;
+  width: 158px;
+  margin-left: 50px;
+  margin-top: 35px;
+  border-radius: 0px;
 }
 
 .sweat {
   height: 36px;
-width: 160px;
-margin-left: 50px;
-margin-top: 35px;
-border-radius: 0px;
-
+  width: 160px;
+  margin-left: 50px;
+  margin-top: 35px;
+  border-radius: 0px;
 }
