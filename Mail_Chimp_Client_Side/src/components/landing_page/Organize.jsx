@@ -1,6 +1,6 @@
 import React from "react";
 import Button from "./Button";
-import { Button1, Button3 } from "../Buttons/Buttons";
+import { Button3 } from "../Buttons/Buttons";
 import { Logo, ChevronRight, ChevronLeft } from "../Icons/Icons";
 import "./organize.css";
 import { Link } from "react-router-dom";

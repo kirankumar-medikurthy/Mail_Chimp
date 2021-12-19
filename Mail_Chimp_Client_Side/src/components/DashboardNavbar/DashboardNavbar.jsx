@@ -8,7 +8,7 @@ const DashboardNavbar = () => {
   const { type } = useParams();
   console.log("boolean", type);
   const sendMail = async () => {
-    await axios.get("http://localhost:9656/users");
+    await axios.get("http://localhost:5000/users");
   };
   return (
     <>

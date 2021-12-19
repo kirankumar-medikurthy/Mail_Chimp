@@ -1,6 +1,6 @@
 import "./contacts.css";
 import Button from "./Button";
-import { Button1, Button3 } from "../Buttons/Buttons";
+import { Button3 } from "../Buttons/Buttons";
 import { Logo, ChevronRight, ChevronLeft } from "../Icons/Icons";
 import { Link } from "react-router-dom";
 

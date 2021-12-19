@@ -16,7 +16,7 @@ function Signup() {
       email: email,
       password: password,
     };
-    await axios.post("http://localhost:9656/register", data);
+    await axios.post("http://localhost:5000/register", data);
     // <Redirect to="/signup/accsetup" />;
     window.location.href = "http://localhost:3000/signup/accsetup";
   };
