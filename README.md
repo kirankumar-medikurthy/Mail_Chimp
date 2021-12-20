@@ -27,7 +27,7 @@
 
 ## Links Related to Blog and Link to run project  in a Browser
 
-[Mail Chimp Documentation](https://medium.com/@kalpanathamatam1822000/mail-chimp-web-application-7036766df172)
+[Mail Chimp Documentation](https://files.slack.com/files-pri/T02Q91U3TL6-F02RAJMG47L/behance_project.png)
 
 [Mail_Chimp_Blog (read here our experiance)](https://medium.com/@kalpanathamatam1822000/mail-chimp-web-application-7036766df172)
 
